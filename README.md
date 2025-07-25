@@ -19,7 +19,6 @@ O objetivo principal foi analisar os dados operacionais da área, gerar insights
 ## Análise de Performance do Time
 <br/>
 <img src='https://github.com/thiago-albuquerque/analiseSucessoDoCliente/blob/main/Power%20BI/images/performance_time_img.JPG'/>
-<br/>
 
 ### Insights:
 * O dashboard mostra um desempenho desigual entre responsáveis: Há um desequilíbrio significativo na performance dos responsáveis. Enquanto Ana concluiu 92% das suas tarefas, outros membros como Pedro (55%) e Rafael (57%) apresentam índices muito abaixo da média. Isso pode indicar necessidade de redistribuição de carga ou acompanhamento mais próximo desses profissionais.
@@ -33,7 +32,6 @@ O objetivo principal foi analisar os dados operacionais da área, gerar insights
 ## Análise de Relacionamento com o Cliente
 <br/>
 <img src='https://github.com/thiago-albuquerque/analiseSucessoDoCliente/blob/main/Power%20BI/images/relacionamento_cliente_img.JPG'/>
-<br/>
 
 ### Insights:
 * Nesse trecho do dashboard, é mostrado que a Adoção e Onboarding estão com pouca atenção: Somente 8% das interações estão no Onboarding e 32% na fase de adoção, enquanto 60% já estão em acompanhamento. Isso pode indicar que muitos clientes estão sendo acompanhados sem passar adequadamente pelas etapas anteriores, o que prejudica a maturidade no uso da solução.
