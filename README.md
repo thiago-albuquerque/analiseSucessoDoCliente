@@ -3,7 +3,7 @@
 
 ## Visão geral
 
-Este projeto foi desenvolvido como parte de um desafio técnico para uma vaga de estágio em Sucesso do Cliente. 
+Este projeto foi desenvolvido como parte de um desafio técnico para uma vaga de <strong>Estágio em Sucesso do Cliente</strong>. 
 <br/>
 O objetivo principal foi analisar os dados operacionais da área, gerar insights estratégicos e propor melhorias por meio da visualização de informações e automação de processos.
 <br/>
